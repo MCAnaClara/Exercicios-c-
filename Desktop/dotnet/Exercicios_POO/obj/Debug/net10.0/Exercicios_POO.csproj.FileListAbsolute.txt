@@ -1,0 +1,15 @@
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\bin\Debug\net10.0\Exercicios_POO.exe
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\bin\Debug\net10.0\Exercicios_POO.deps.json
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\bin\Debug\net10.0\Exercicios_POO.runtimeconfig.json
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\bin\Debug\net10.0\Exercicios_POO.dll
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\bin\Debug\net10.0\Exercicios_POO.pdb
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.AssemblyInfoInputs.cache
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.AssemblyInfo.cs
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.csproj.CoreCompileInputs.cache
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.sourcelink.json
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.dll
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\refint\Exercicios_POO.dll
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.pdb
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\Exercicios_POO.genruntimeconfig.cache
+C:\Users\42691658805\Desktop\dotnet\Exercicios_POO\obj\Debug\net10.0\ref\Exercicios_POO.dll
