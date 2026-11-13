@@ -12,7 +12,7 @@ namespace Exercicios_POO
             }
             else
             {
-                Console.WriteLine("Velocidade alterada");
+                Console.WriteLine($"Velocidade alterada. {velocidade}");
                 Velocidade = velocidade;
             }
         }
